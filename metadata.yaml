@@ -1,0 +1,26 @@
+_repo: Dante-e-gli-EbreiStudio_43244
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Servi, Flaminio
+    gutenberg_agent_id: '42090'
+    url: http://www.gutenberg.org/2009/agents/42090
+description: ''
+gutenberg_bookshelf: IT Letteratura
+gutenberg_issued: '2013-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43244'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Jews in literature'
+- !lcsh 'Dante Alighieri, 1265-1321 -- Characters -- Jews'
+title: 'Dante e gli Ebrei: Studio'
+url: http://www.gutenberg.org/ebooks/43244
